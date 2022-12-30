@@ -1,0 +1,3 @@
+[submodule "wuli_sub"]
+	path = wuli_sub
+	url = git@github.com:wdxm657/wuli_sub.git
